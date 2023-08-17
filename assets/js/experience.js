@@ -4,6 +4,7 @@ AOS.init();
 
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
+/*
   {
     title: "Software Development Intern",
     cardImage: "assets/images/experience-page/flipkart.jpg",
@@ -25,6 +26,7 @@ const exp = [
     time: "(Dec, 19 - Jan, 20)",
     desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
   },
+  */
 ];
 
 const showCards2 = () => {
@@ -59,7 +61,7 @@ document.addEventListener("DOMContentLoaded", showCards2);
 
 // Volunteership Cards
 
-
+/
 const showCards = () => {
   let output = "";
   volunteershipcards.forEach(
