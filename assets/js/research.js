@@ -27,19 +27,19 @@ const research = [
   },
 
   {
-    title: "Convoy's Hope",
-	ref: "https://s4g.itch.io/convoys-hope",
+    title: "Convoy of Hope",
+	ref: "https://s4g.itch.io/convoy-of-hope",
     subTitel:
       "S4G School for Games GmbH, 4th Semester Project",
     description:
-      "coming soon",
+      "3D Casual Survival Game, set in a burnt landscape with a board game aesthetic, where players strategically place hexes to ensure the survival of their elephant convoy and guide them to safety.",
     subTitel2:
 	"My Responsibilities",
 	responsibilities:
-	"coming soon",
+	"As the 2nd Programmer in this Team, I focused on the system behind the main mechanic, the stats system. And some other gameplay mechanics like movement and the followers of the main unit.",
 	researchYr: 2023,
     citebox: "popup2",
-    image: "assets/images/project-page/convoyshope.png",
+    image: "assets/images/project-page/convoyofhope.png",
     citation: {
       vancouver:
         "Mikel Artetxe, Sebastian Ruder, Dani Yogatama, Gorka Labaka and Eneko Agirre. A Call for More Rigor in Unsupervised Cross-lingual Learning. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",

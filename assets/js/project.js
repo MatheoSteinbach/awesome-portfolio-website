@@ -6,11 +6,11 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Convoys Hope",
-    cardImage: "assets/images/project-page/convoyshope.png",
+    title: "Convoy of Hope",
+    cardImage: "assets/images/project-page/convoyofhope.png",
     description: "A 2D top-down, action-adventure game.",
-    tagimg: "https://s4g.itch.io/convoys-hope",
-    Previewlink: "https://s4g.itch.io/convoys-hope",
+    tagimg: "https://s4g.itch.io/convoy-of-hope",
+    Previewlink: "https://s4g.itch.io/convoy-of-hope",
     Githublink: "",
   },
   {
